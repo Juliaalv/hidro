@@ -1,0 +1,16 @@
+Agência Nacional de Águas - ANA
+Superintendência de Gestão da Rede Hidrometeorológica-SGH
+Sistema de Informações Hidrológicas - Versão WEB
+Fone: (61) 2109-5242
+E-mail: hidro@ana.gov.br
+
+NivelConsistencia: 1 = Bruto, 2 = Consistido
+TipoCurva: 1 = Equação, 2 = Tabela
+TipoEquacao: 1 = Potência (Q(H) = a(H - h0)^n), 2 = Linear (Q(H) = a0 + a1H), 3 = Parabólica (Q(H) = a0 + a1H + a2H^2), 4 = Cúbica (Q(H) = a0 + a1H + a2H^2 + a3H^3)
+
+Restrições da consulta:
+Código da Estação:65925770
+
+
+EstacaoCodigo;NivelConsistencia;PeriodoValidadeInicio;PeriodoValidadeFim;CotaMaxima;CotaMinima;TipoCurva;NumeroCurva;TipoEquacao;CoefA;CoefH0;CoefN;CoefA0;CoefA1;CoefA2;CoefA3;TabelaPassoCota;TabelaVazao
+65925770;1;24/11/2003;31/12/2008;"303,0";"28,0";2;00001;;;;;;;;;"1,0";"0|28,0;0|29,0;0|30,0;0,1|31,0;0,1|32,0;0,1|33,0;0,1|34,0;0,2|35,0;0,2|36,0;0,2|37,0;0,2|38,0;0,3|39,0;0,3|40,0;0,3|41,0;0,3|42,0;0,4|43,0;0,4|44,0;0,4|45,0;0,4|46,0;0,5|47,0;0,5|48,0;0,5|49,0;0,5|50,0;0,6|51,0;0,6|52,0;0,6|53,0;0,8|54,0;1|55,0;1,2|56,0;1,4|57,0;1,6|58,0;1,9|59,0;2,1|60,0;2,3|61,0;2,5|62,0;2,7|63,0;2,8|64,0;3|65,0;3,2|66,0;3,4|67,0;3,6|68,0;3,8|69,0;4|70,0;4,2|71,0;4,4|72,0;4,5|73,0;4,7|74,0;4,9|75,0;5,1|76,0;5,3|77,0;5,5|78,0;5,5|79,0"

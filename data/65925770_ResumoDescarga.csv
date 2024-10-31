@@ -1,0 +1,23 @@
+Agência Nacional de Águas - ANA
+Superintendência de Gestão da Rede Hidrometeorológica-SGH
+Sistema de Informações Hidrológicas - Versão WEB
+Fone: (61) 2109-5242
+E-mail: hidro@ana.gov.br
+
+NivelConsistencia: 1 = Bruto, 2 = Consistido
+MedidorVazao: 1 = ADCP (outros modelos), 2 = ADCP RiverPro de 1200 kHz, 3 = ADCP RiverPro de 600 kHz, 4 = ADCP RiverRay de 600 kHz, 5 = ADCP StreamPro, 6 = ADCP Workhorse Rio Grande de 1200 kHz, 7 = ADCP Workhorse Rio Grande de 300 kHz,
+8 = ADCP Workhorse Rio Grande de 600 kHz, 9 = Barco em movimento (moving boat ou smoot), 10 = FlowTracker;11 = Flutuador, 12 = MF Pro;13 = Micromolinete, 14 = Molinete de eixo horizontal, 15 = Molinete de eixo vertical,
+16 = RiverSurveyor = M9, 17 = RiverSurveyor = S5, 18 = Volumétrico, 19 = Outros, 20 = Não especificado
+
+Restrições da consulta:
+Código da Estação:65925770
+
+
+EstacaoCodigo;NivelConsistencia;Data;Hora;NumMedicao;Cota;Vazao;AreaMolhada;Largura;VelMedia;Profundidade;tecnico;medidorvazao
+65925770;1;05/06/2004;01/01/1900 07:00;1;"39,0";"0,354";"1,74";"8,8";"0,203";"0,2";;
+65925770;1;05/06/2004;01/01/1900 16:15;;"39,0";"0,354";"1,74";"8,8";"0,203";"0,2";;
+65925770;1;28/03/2004;01/01/1900 13:00;;"33,0";"0,136";"1,4";"8,4";"0,097";"0,17";;
+65925770;1;28/03/2004;01/01/1900 07:00;1;"33,0";"0,136";"1,4";"8,4";"0,097";"0,17";;
+65925770;1;04/11/2003;01/01/1900 07:00;1;"50,0";"0,549";"2,86";"7,85";"0,192";"0,36";;
+65925770;1;04/11/2003;01/01/1900 17:20;;"50,0";"0,549";"2,86";"7,85";"0,192";"0,36";;
+65925770;1;04/11/2003;01/01/1900 17:55;;"50,0";"0,568";"2,86";"7,85";"0,199";"0,36";;

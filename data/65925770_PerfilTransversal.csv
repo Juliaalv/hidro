@@ -1,0 +1,15 @@
+Agência Nacional de Águas - ANA
+Superintendência de Gestão da Rede Hidrometeorológica-SGH
+Sistema de Informações Hidrológicas - Versão WEB
+Fone: (61) 2109-5242
+E-mail: hidro@ana.gov.br
+
+NivelConsistencia: 1 = Bruto, 2 = Consistido
+TipoSecao: 1 = Régua, 2 = Medição
+
+Restrições da consulta:
+Código da Estação:65925770
+
+
+EstacaoCodigo;NivelConsistencia;Data;Hora;NumLevantamento;TipoSecao;NumVerticais;DistanciaPIPF;EixoXDistMaxima;EixoXDistMinima;EixoYCotaMaxima;EixoYCotaMinima;ElmGeomPassoCota;Observacoes;Vertical
+65925770;1;28/03/2004;;;2;38;;;;;;;;"2,369,2|21,368,7|20,356|19,317,6|18,261,6|17,221,6|16,152,5|15,22|15,33|15,33|15,21|14,23|14,19|13,20|13,23|13,24|12,23|12,18|11,16|11,12|11,8|10,3|10,10|9,10|9,4|9,5|8,14|8,22|7,33|7,33|7,13|6,111,6|5,193,1|4,236,6|3,264,8|2,291,4|1,298,8|0,303,1|"
